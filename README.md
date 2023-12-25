@@ -28,9 +28,11 @@ Your only study plan you need to become a developer with cutting-edge skills in 
 # Leetcode System Design
 - [Why DO NOT buy LeetCode's System Design course?](https://www.reddit.com/r/leetcode/comments/yq93y2/do_not_buy_leetcodes_system_design_course/)
 - [Watch codeKarle instead!](https://www.youtube.com/@codeKarle/videos)
-- [L5 System Design Primer](https://github.com/donnemartin/system-design-primer) and [I found it here](https://www.reddit.com/r/leetcode/comments/uc3zex/what_are_good_resources_for_system_design/)
+- [L5 System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [greatfrontend System Desgn](https://www.greatfrontend.com/prepare/system-design)
+- ### Source
+  - [what are good resources for system design?](https://www.reddit.com/r/leetcode/comments/uc3zex/what_are_good_resources_for_system_design/) 
 
 # Data Structure & Algorithms
 - [Start with free content before paying for anything](https://www.youtube.com/watch?v=8hly31xKli0)
