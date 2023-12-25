@@ -55,5 +55,15 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 - ### Source
   - [Best options for mock interviews](https://www.reddit.com/r/leetcode/comments/wsgsxx/best_options_for_mock_interviews/) 
 
+# TL;DR Websites to help you to ace an interview
+- [Freecodecamp.org Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0)
+- [Neetcode.io](https://neetcode.io/courses)
+- [Leetcode Study Plans](https://leetcode.com/studyplan/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75)
+- [Coding Prep greatfrontend](https://www.greatfrontend.com/prepare/coding)
+- [Quiz Prep greatfrontend](https://www.greatfrontend.com/prepare/quiz)
+- [Resume template](https://www.overleaf.com/project/627224a4c2dc8e6361a77250)
+
 ## Sources that might be help us
 - [PK Leetcode](https://www.piratekingdom.com/leetcode/study-guide)
