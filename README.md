@@ -1,5 +1,5 @@
 # Excel Yourself
-Your only study plan you need to become a developer with cutting-edge skills in a technology industry like FAANG.
+Your only study plan you need to become a **softawre developer/engineer** with cutting-edge skills in a technology industry like **FAANG**.
 
 # Why am I doing this?
 - [Guy in my class faked his resume and got FAANG interviews and an offer.](https://www.reddit.com/r/csMajors/comments/s9628x/guy_in_my_class_faked_his_resume_and_got_faang/)
@@ -9,30 +9,6 @@ Your only study plan you need to become a developer with cutting-edge skills in 
 - [TAGALOG/ENG: Leetcode or Portfolio](https://www.reddit.com/r/PinoyProgrammer/comments/18ln2yw/leetcode_or_portfolio/)
 - [TAGALOG/ENG: How hard to get a FAANG software engineering job after college in the PH?](https://www.reddit.com/r/PinoyProgrammer/comments/14u3g6g/how_hard_to_get_a_faang_software_engineering_job/)
 - [TAGALOG/ENG: How to get hired in FAANG? Are there open jobs here locally or abroad only?](https://www.reddit.com/r/PinoyProgrammer/comments/yut8c0/how_to_get_hired_in_faang_are_there_open_jobs/)
-
-# Resume
-- [Found this on reddit and they said got passed on FAANG interview by using this template](https://www.overleaf.com/project/627224a4c2dc8e6361a77250)
-- [Why use Reddit and Blind for resume review? Rather than buying FAANG Tech Leads packages?](https://www.teamblind.com/post/Anyone-use-FAANG-Tech-Leads-for-resume-review-O556x86R)
-- [Jake Gutierrez Resume ANOTHER EXAMPLE!](https://github.com/jakegut/resume)
-- [Resume Formatting from FAANG Tech Leads](https://www.faangtechleads.com/resume/checklist)
-- [How to format a resume and include things to add on your resume from someone who did work at FAANG](https://www.reddit.com/r/cscareerquestions/comments/mybng0/i_landed_a_73k_sde_job_while_still_in_undergrad/)
-- [How many projects should I have on my portfolio?](https://forum.freecodecamp.org/t/how-many-projects-should-i-have-on-my-portfolio/506361?fbclid=IwAR248kIngdMPp26ja-2fBUHSdUdmOZU4oxZaQvl8e2M2RRVuyI8A6ma86WI)
-
-# Mock Interviews
-- [Pramp Interviewing: the most profitable skill you can learn](https://www.pramp.com)
-- [Anonymous mock interviews with engineers from FAANG](https://interviewing.io/)
-- [Neetcode Discord Community](https://discord.com/invite/ddjKRXPqtk)
-- ### Source
-  - [Best options for mock interviews](https://www.reddit.com/r/leetcode/comments/wsgsxx/best_options_for_mock_interviews/) 
-
-# Leetcode System Design
-- [Why DO NOT buy LeetCode's System Design course?](https://www.reddit.com/r/leetcode/comments/yq93y2/do_not_buy_leetcodes_system_design_course/)
-- [Watch codeKarle instead!](https://www.youtube.com/@codeKarle/videos)
-- [L5 System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Awesome System Design](https://github.com/madd86/awesome-system-design)
-- [greatfrontend System Desgn](https://www.greatfrontend.com/prepare/system-design)
-- ### Source
-  - [what are good resources for system design?](https://www.reddit.com/r/leetcode/comments/uc3zex/what_are_good_resources_for_system_design/) 
 
 # Data Structure & Algorithms
 - [Start with free content before paying for anything](https://www.youtube.com/watch?v=8hly31xKli0)
@@ -54,3 +30,27 @@ Your only study plan you need to become a developer with cutting-edge skills in 
 - [Element of Programming Interviews or EPI](https://github.com/qqqil/ebooks/blob/master/algorithms/Elements%20of%20Programming%20Interviews.pdf)
 - ### Source
   - [Your idea of best 3-4 month LC study plan](https://www.reddit.com/r/leetcode/comments/zk2hgo/your_idea_of_best_34_month_lc_study_plan/)
+
+# Leetcode System Design
+- [Why DO NOT buy LeetCode's System Design course?](https://www.reddit.com/r/leetcode/comments/yq93y2/do_not_buy_leetcodes_system_design_course/)
+- [Watch codeKarle instead!](https://www.youtube.com/@codeKarle/videos)
+- [L5 System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)
+- [greatfrontend System Desgn](https://www.greatfrontend.com/prepare/system-design)
+- ### Source
+  - [what are good resources for system design?](https://www.reddit.com/r/leetcode/comments/uc3zex/what_are_good_resources_for_system_design/) 
+
+# Resume
+- [Found this on reddit and they said got passed on FAANG interview by using this template](https://www.overleaf.com/project/627224a4c2dc8e6361a77250)
+- [Why use Reddit and Blind for resume review? Rather than buying FAANG Tech Leads packages?](https://www.teamblind.com/post/Anyone-use-FAANG-Tech-Leads-for-resume-review-O556x86R)
+- [Jake Gutierrez Resume ANOTHER EXAMPLE!](https://github.com/jakegut/resume)
+- [Resume Formatting from FAANG Tech Leads](https://www.faangtechleads.com/resume/checklist)
+- [How to format a resume and include things to add on your resume from someone who did work at FAANG](https://www.reddit.com/r/cscareerquestions/comments/mybng0/i_landed_a_73k_sde_job_while_still_in_undergrad/)
+- [How many projects should I have on my portfolio?](https://forum.freecodecamp.org/t/how-many-projects-should-i-have-on-my-portfolio/506361?fbclid=IwAR248kIngdMPp26ja-2fBUHSdUdmOZU4oxZaQvl8e2M2RRVuyI8A6ma86WI)
+
+# Mock Interviews
+- [Pramp Interviewing: the most profitable skill you can learn](https://www.pramp.com)
+- [Anonymous mock interviews with engineers from FAANG](https://interviewing.io/)
+- [Neetcode Discord Community](https://discord.com/invite/ddjKRXPqtk)
+- ### Source
+  - [Best options for mock interviews](https://www.reddit.com/r/leetcode/comments/wsgsxx/best_options_for_mock_interviews/) 
