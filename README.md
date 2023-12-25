@@ -55,5 +55,5 @@ Your only study plan you need to become a **softawre developer/engineer** with c
 - ### Source
   - [Best options for mock interviews](https://www.reddit.com/r/leetcode/comments/wsgsxx/best_options_for_mock_interviews/) 
 
-## Sources that I found might be help for us
+## Sources that might be help us
 - [PK Leetcode](https://www.piratekingdom.com/leetcode/study-guide)
