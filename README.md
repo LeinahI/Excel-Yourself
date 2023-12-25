@@ -1,5 +1,5 @@
 # Excel Yourself
-Your only study plan you need to become a **softawre developer/engineer** with cutting-edge skills in a technology industry like **FAANG**.
+The study plan you need to become a **softawre developer/engineer** with cutting-edge skills in a technology industry like **FAANG**.
 
 # Why am I doing this?
 - [Guy in my class faked his resume and got FAANG interviews and an offer.](https://www.reddit.com/r/csMajors/comments/s9628x/guy_in_my_class_faked_his_resume_and_got_faang/)
