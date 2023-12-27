@@ -15,6 +15,7 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 - [Neetcode's free content is more than enough](https://neetcode.io/courses)
 - [Take you forward](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 - ### Source
   - [is it enough to learn DSA?](https://www.reddit.com/r/leetcode/comments/11gr4uq/has_anyone_bought_the_leetcode_data_structures/)
   - [Is the LeetCode’s Data Structures and Algorithms’ $89.99 course worth it?](https://www.reddit.com/r/learnprogramming/comments/16vcdoo/is_the_leetcodes_data_structures_and_algorithms/)
