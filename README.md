@@ -68,3 +68,5 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 
 ## Sources that might be help us
 - [PK Leetcode](https://www.piratekingdom.com/leetcode/study-guide)
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews](https://interviewnoodle.com/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
