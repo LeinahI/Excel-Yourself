@@ -183,6 +183,19 @@ It’s my turn to be a parent now and unlike many parents out there, when my son
 • I pursued goals instead of my passion<br>
   And again, 𝑫𝑰𝑺𝑲𝑨𝑹𝑻𝑬, 𝑫𝑰𝑺𝑲𝑨𝑹𝑻𝑬, 𝑫𝑰𝑺𝑲𝑨𝑹𝑻𝑬
 </p>
+
+<p>Reference:
+<br>
+No, M. (2023, November 9). 𝐇𝐨𝐰 𝐈 𝐚𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐚 𝟕-𝐝𝐢𝐠𝐢𝐭 𝐬𝐚𝐥𝐚𝐫𝐲 (5 lessons from an I.T. engineer). Retrieved from https://www.facebook.com/MedyoSocial/posts/pfbid0J214TStt6cJMctpc5pVBEkpfbA6N7pfGoyvT9ytx4WKTEta5JAPWdcN53MKKEgXdl
+</p>
+
+
+![361386078_723778826134619_5366501759275699902_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/447c48b1-d4b2-4c64-8c1a-c403b3b5f1ea)
+![361392585_723778959467939_3607114372595842493_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/186a0570-858e-4fb2-a192-f39d50c4d20b)
+![361308419_723779002801268_6691778085380891396_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/0b418805-1461-4191-9765-4903b2085900)
+![364066395_732412381937930_8965768997310063891_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/6229fde1-8bf3-40f4-ae97-6d371a8c7582)
+
+
 </details>
 
 # TAGALOG/ENG November 2023 I.T. Career Advice: Interview Strategies [the real talk way] by [Medyo No](https://www.facebook.com/MedyoSocial/)
