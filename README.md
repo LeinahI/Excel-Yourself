@@ -191,13 +191,10 @@ It’s my turn to be a parent now and unlike many parents out there, when my son
 No, M. (2023, November 9). 𝐇𝐨𝐰 𝐈 𝐚𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐚 𝟕-𝐝𝐢𝐠𝐢𝐭 𝐬𝐚𝐥𝐚𝐫𝐲 (5 lessons from an I.T. engineer). Retrieved from https://www.facebook.com/MedyoSocial/posts/pfbid0J214TStt6cJMctpc5pVBEkpfbA6N7pfGoyvT9ytx4WKTEta5JAPWdcN53MKKEgXdl
 </p>
 
-
 ![361386078_723778826134619_5366501759275699902_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/447c48b1-d4b2-4c64-8c1a-c403b3b5f1ea)
 ![361392585_723778959467939_3607114372595842493_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/186a0570-858e-4fb2-a192-f39d50c4d20b)
 ![361308419_723779002801268_6691778085380891396_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/0b418805-1461-4191-9765-4903b2085900)
 ![364066395_732412381937930_8965768997310063891_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/6229fde1-8bf3-40f4-ae97-6d371a8c7582)
-
-
 </details>
 
 # TAGALOG/ENG November 2023 I.T. Career Advice: Interview Strategies [the real talk way] by [Medyo No](https://www.facebook.com/MedyoSocial/)
@@ -222,6 +219,73 @@ No, M. (2023, November 9). 𝐇𝐨𝐰 𝐈 𝐚𝐜𝐡𝐢𝐞𝐯𝐞𝐝 �
 <p>I am both an employee and employer. Once in a while I go to the job boards and look for talent to work for me. I look for experienced engineers who I feel are underpaid and I give them an opportunity to move up sa career at buhay nila. Lagi ako nakaka encounter ng mga engineers who flat out decline a role without even asking for more information. One of the responses I always get is “I am currently employed”. If only they knew that the salary they would get from me is at least double of what they are currently making and that what I have to offer will allow them to experience different roles and exposure sa ibat-ibang fields sa I.T., get to touch countless of technologies, and work at different industries. Don’t be that kind of engineer – pag may tumawag sayo or may nag refer sayo for a role kahit hindi ka interested pag daanan mo yung process – because again, in our industry it’s not all about skills and tech lang.</p>
 <b>Reference</b>
 <p>No, M. (2023, November 9). November I.T. Career Advice: Interview Strategies [the real talk way]. Retrieved from https://www.facebook.com/groups/itphil/posts/1334770923853726/</p>
+</details>
+
+# What interviewing hundreds of Pinoy developers taught me, 5 advices to be more hireable... by [UnrelatedConnexion](https://www.reddit.com/user/UnrelatedConnexion/)
+<details>
+  <summary>5 advices to be more hireable</summary>
+  <p>
+    <ins>𝑨𝒅𝒗𝒊𝒄𝒆 #1: 𝑮𝒐 𝒃𝒂𝒄𝒌 𝒕𝒐 𝒕𝒉𝒆 𝒃𝒂𝒔𝒊𝒄𝒔</ins><br>
+ A lot of developers I have interviewed learned their skills by using frameworks and don't know the basics. I'd estimate that 80-90% of the candidates who got rejected were rejected because of a lack of basic understanding of programming. Probably 95% of the web developers I interviewed can't properly explain what's the Javascript event loop.<br>
+
+For example, they jumped into web development learning jQuery, or React but they don't know Javascript. This is a mistake. Learning the basics might sound boring, but they are the foundations on which you build everything else.<br>
+
+So that's my first advice, go back to the basics, spend some time learning the Node.js API, how Javascript and TypeScript work, how C# and Python work, whatever is your favourite language. Learn common design patterns. Learn how the internet works as well if you are a web developer. It's crazy to see how many candidates apply to a web job but have no idea what are web vitals, what is latency, and what is a DNS.<br>
+
+And SQL, if you are a backend developer and handle a database, please learn SQL, and learn how to properly model a database, and what are the first normalization rules (go on Wikipedia and read). You will keep this on your tool belt for the next 20 years. I learned all that 25 years ago and still use everything today, nothing has changed.<br>
+
+Go on [roadmap.sh](https://roadmap.sh/) and learn everything there. At no point during your career you'll know everything. </p>
+
+<p>
+  <ins>𝑨𝒅𝒗𝒊𝒄𝒆 #2: 𝑫𝒐𝒏'𝒕 𝒆𝒙𝒑𝒆𝒄𝒕 𝒚𝒐𝒖𝒓 𝒄𝒖𝒓𝒓𝒆𝒏𝒕 𝒆𝒎𝒑𝒍𝒐𝒚𝒆𝒓 𝒕𝒐 𝒕𝒆𝒂𝒄𝒉 𝒚𝒐𝒖 𝒆𝒗𝒆𝒓𝒚𝒕𝒉𝒊𝒏𝒈</ins><br>
+   It's perfectly OK to jump boat for career growth and I'd advise you do so if you are working with completely outdated technologies or processes because in the end experience and practice make perfect.<br>
+
+But first, learn by yourself! I have yet to meet a skilled software engineer who hasn't dedicated their evenings or weekends to honing their coding skills. You can't expect your employer to pay for 6 months of training, and lament because they don't and you are not growing.<br>
+
+Life gets in the way, for sure, but be honest, how many hours do you spend on social media? Just replace that with some coding sessions, sit down for 30 minutes and learn something, or simply solve 1 Leetcode every day.<br>
+
+Nobody else will learn for you, and nobody else is responsible for your growth as a software engineer.<br>
+
+PS: Watching a YT or TikTok video doesn't count as learning, it's entertainement. You must apply your skills to learn. If you are not typing code, compiling, deploying, you are not learning. 
+</p>
+
+<p>
+  <ins>𝑨𝒅𝒗𝒊𝒄𝒆 #3: 𝑩𝒆 𝒂𝒃𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒍𝒂𝒊𝒏 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒉𝒂𝒗𝒆 𝒍𝒆𝒂𝒓𝒏𝒆𝒅</ins><br>
+   This is particularly important today with the emergence of AI. Some developers I met are able to give an answer to a question (because they know how to prompt an AI), but when you ask them to explain their answer, they are stuttering and can't provide a proper justification.<br>
+
+Not being able to explain the WHY you made a decision, chose a particular technology, or structured your code in a specific way, will backfire. It's not enough to know how to do it, you need to know why it's better this way over the other way.<br>
+
+There is a difference between being a coder and an engineer. If you want to grow, don't be just a coder. During an interview, we'll always try to discover if you can justify your decisions because it's a proof you know what you are talking about. 
+</p>
+
+<p>
+  <ins>𝑨𝒅𝒗𝒊𝒄𝒆 #4: 𝑳𝒆𝒂𝒓𝒏 𝒉𝒐𝒘 𝒕𝒐 𝒑𝒓𝒐𝒑𝒆𝒓𝒍𝒚 𝒓𝒆𝒂𝒅 𝒂𝒏𝒅 𝒘𝒓𝒊𝒕𝒆 𝒊𝒏 𝑬𝒏𝒈𝒍𝒊𝒔𝒉</ins><br>
+   Yeah I know, this is boring too. But you'd be surprised how many people can't write a sentence in English without a spelling mistake. Why is this important? Because when you are working with foreign (English speaking) clients or employers, you'll write all the time, in e-mails, in Slack, in your code comments, naming your variables and classes. Everything will be in English.<br>
+
+In the Philippines, you are very lucky to learn English early in life, but I think you are learning the language mostly by watching TV shows, Netflix, and Youtube. This won't help you with reading and writing. I'd strongly advise you spend more time reading than watching. This is one of those compounding skills that will help you with everything else in life.<br>
+
+Writing in proper English will also show your employers that you are careful and have attention to details. And luckily today this is getting simpler with tools like Copilot or ChatGPT, but don't fool yourself thinking that you are good at something if AI is doing it for you, because companies also know how to simply use an AI instead of you. 
+</p>
+
+<p>
+  <ins>𝑨𝒅𝒗𝒊𝒄𝒆 #5: 𝑶𝒏 𝒖𝒔𝒊𝒏𝒈 𝑨𝑰 𝒅𝒖𝒓𝒊𝒏𝒈 𝒄𝒐𝒅𝒊𝒏𝒈 𝒆𝒙𝒂𝒎𝒔</ins><br>
+   This will depend on the company, usually we don't mind people using AI during an exams, but a coding exam is about showing you know how to solve problems. If you copy/paste everything from AI you are just showing you can prompt an AI, and as soon as the AI won't give you the correct answer you'll be lost.<br>
+
+AI is like an auto-completer, don't use it to replace your skills, because if you do so then there is a great chance some more senior developers can also use it to replace you.<br>
+
+Recently, I have seen a growing number of people failing an exam BECAUSE they were using an AI and got lost trying to understand ChatGPT's answer and were completely unable to fix it.<br>
+
+And yes, it's super easy to tell when someone use an AI during an interview or coding test. In the future, I suspect most coding exams will be replaced by some other form of interviews like pair programming sessions, or live whiteboarding.<br>
+
+Also, consider this, once hired, if you cheated your way with AI, there is a great chance you won't pass the first performance evaluation. The make-up will wear off very quickly once you are onboarded in a project. 
+</p>
+
+<p>
+  <ins>Conclusion</ins><br>
+   I know all this sounds quite boring, there are no special tricks to get you your dream job. If you want to be above the crowd you need to do things that most people don't do and in my experience, most candidates I have interviewed are not doing all this.<br>
+
+Go back to the basics! And I wish you all the best in your careers. 
+</p>
 </details>
 
 ## Sources that might be help us
