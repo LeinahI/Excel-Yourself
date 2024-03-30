@@ -286,6 +286,9 @@ Also, consider this, once hired, if you cheated your way with AI, there is a gre
 
 Go back to the basics! And I wish you all the best in your careers. 
 </p>
+
+<b>Reference</b>
+<p>UnrelatedConnexion. (2024, February 20). What interviewing hundreds of Pinoy developers taught me, 5 advices to be more hireable. Retrieved from https://www.reddit.com/r/PinoyProgrammer/comments/1avd91u/what_interviewing_hundreds_of_pinoy_developers/</p>
 </details>
 
 ## Sources that might be help us
