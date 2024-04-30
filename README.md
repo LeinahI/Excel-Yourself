@@ -53,8 +53,7 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 - [For Amazon Employees Affected by Layoffs](https://www.facebook.com/jonathanwordsofwisdom/posts/pfbid0tkYyTaRiE4ECxCA8KgMcnuotQSEtjHoSzTAQ6JAka4iHS1ni6PAVhmtwiRbtWTHZl)
   <details>
     <summary>Amazon Employess Affected by Layoff</summary>
-    ![435062442_443956158277676_9194410870920546039_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/7ea7f914-0f7c-4ff1-9412-65dfe237e464)
-
+  
     <p>
       💡Red = Action Verbs: Start each experience with an action verb; if it’s in a current position, you can put as present and if past, you put as -ed (Example of great action verbs: Reengineered, Controlled)
     </p>
@@ -73,6 +72,9 @@ The study plan you need to become a **softawre developer/engineer** with cutting
     <p>
       Note: This is an example resume; it should be chronologically ordered.
     </p>
+
+    ![435062442_443956158277676_9194410870920546039_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/8d49f8d8-f644-4110-a02c-d2bd3c3c7e29)
+
   </details>
 
 # Mock Interviews
