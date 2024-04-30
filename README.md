@@ -50,6 +50,30 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 - [Resume Formatting from FAANG Tech Leads](https://www.faangtechleads.com/resume/checklist)
 - [How to format a resume and include things to add on your resume from someone who did work at FAANG](https://www.reddit.com/r/cscareerquestions/comments/mybng0/i_landed_a_73k_sde_job_while_still_in_undergrad/)
 - [How many projects should I have on my portfolio?](https://forum.freecodecamp.org/t/how-many-projects-should-i-have-on-my-portfolio/506361?fbclid=IwAR248kIngdMPp26ja-2fBUHSdUdmOZU4oxZaQvl8e2M2RRVuyI8A6ma86WI)
+- [For Amazon Employees Affected by Layoffs](https://www.facebook.com/jonathanwordsofwisdom/posts/pfbid0tkYyTaRiE4ECxCA8KgMcnuotQSEtjHoSzTAQ6JAka4iHS1ni6PAVhmtwiRbtWTHZl)
+  <details>
+    <summary>Amazon Employess Affected by Layoff</summary>
+    ![435062442_443956158277676_9194410870920546039_n](https://github.com/LeinahI/Excel-Yourself/assets/53577436/7ea7f914-0f7c-4ff1-9412-65dfe237e464)
+
+    <p>
+      💡Red = Action Verbs: Start each experience with an action verb; if it’s in a current position, you can put as present and if past, you put as -ed (Example of great action verbs: Reengineered, Controlled)
+    </p>
+    <p>
+      💡Orange = Hard Skills: Put the specific hard skills and platform-based skills throughout the resume to show that you fit the job description's qualifications; in the Skills section of your resume, you can also have the skills and match them to your experiences where applicable. Example: To direct full-cycle recruiting for Annapurna Labs by leveraging a strong network of talent, To conduct detailed reviews of # employee requests for reasonable accommodations in alignment with ADA/ADAAA laws
+    </p>
+    <p>
+      💡Green = impact metrics: optimizing cost efficiency by %.
+    </p>
+    <p>
+      💡Cyan = Impact statements before the number/percentages: This showcases if you improved, optimized, or increased xyz. Example: "resulting in the hiring of # full-time engineering staff members within # months."
+    </p>
+    <p>
+      💡Yellow = soft skills: more broad or simple statements, these are relative to collaboration, providing recommendations, and identifying solutions to potential problems
+    </p>
+    <p>
+      Note: This is an example resume; it should be chronologically ordered.
+    </p>
+  </details>
 
 # Mock Interviews
 - [Pramp Interviewing: the most profitable skill you can learn](https://www.pramp.com)
