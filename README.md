@@ -31,6 +31,7 @@ The study plan you need to become a **softawre developer/engineer** with cutting
 - [Grind 75 is an improved version of Blind 75](https://www.techinterviewhandbook.org/grind75)
 - [Cracking The Coding Interview or CTCI](https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 - [Element of Programming Interviews or EPI](https://github.com/qqqil/ebooks/blob/master/algorithms/Elements%20of%20Programming%20Interviews.pdf)
+- [Leetcode Problems distribution by Tags | Nov'23 ](https://www.reddit.com/r/leetcode/comments/17ul0l1/leetcode_problems_distribution_by_tags_nov23/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - ### Source
   - [Your idea of best 3-4 month LC study plan](https://www.reddit.com/r/leetcode/comments/zk2hgo/your_idea_of_best_34_month_lc_study_plan/)
 
