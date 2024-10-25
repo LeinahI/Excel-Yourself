@@ -1,5 +1,6 @@
 <h1>Drunk Post: Things I've learned as a Sr Engineer </h1>
 <b>I'm drunk and I'll probably regret this, but here's a drunken rank of things I've learned as an engineer for the past 10 years. </b>
+<a href="https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/">Link</a>
 <ol>
   <li>The best way I've advanced my career is by changing companies.</li>
   <li>Technology stacks don't really matter because there are like 15 basic patters of software engineering in my field that apply. I work in data so it's not going to be the same as webdev or embedded. But all fields have about 10-20 core principles and the tech stack is just strying to make those things easier, so don't fret over it.</li>
